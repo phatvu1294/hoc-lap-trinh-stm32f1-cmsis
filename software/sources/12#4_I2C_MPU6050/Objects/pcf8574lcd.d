@@ -1,0 +1,11 @@
+.\objects\pcf8574lcd.o: ..\libraries\pcf8574lcd.c
+.\objects\pcf8574lcd.o: ..\libraries\pcf8574lcd.h
+.\objects\pcf8574lcd.o: .\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h
+.\objects\pcf8574lcd.o: .\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xb.h
+.\objects\pcf8574lcd.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\objects\pcf8574lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pcf8574lcd.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\pcf8574lcd.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\pcf8574lcd.o: .\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h
+.\objects\pcf8574lcd.o: ..\libraries\delay.h
+.\objects\pcf8574lcd.o: ..\libraries\i2c1.h

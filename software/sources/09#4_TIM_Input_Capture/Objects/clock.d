@@ -1,0 +1,9 @@
+.\objects\clock.o: ..\libraries\clock.c
+.\objects\clock.o: ..\libraries\clock.h
+.\objects\clock.o: .\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h
+.\objects\clock.o: .\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xb.h
+.\objects\clock.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\objects\clock.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\clock.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\clock.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\clock.o: .\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h

@@ -1,0 +1,9 @@
+.\objects\startup.o: ..\libraries\startup.c
+.\objects\startup.o: ..\libraries\startup.h
+.\objects\startup.o: .\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h
+.\objects\startup.o: .\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xb.h
+.\objects\startup.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\objects\startup.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\startup.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\startup.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\startup.o: .\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h

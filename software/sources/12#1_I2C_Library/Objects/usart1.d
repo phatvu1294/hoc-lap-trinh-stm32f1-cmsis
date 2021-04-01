@@ -1,0 +1,9 @@
+.\objects\usart1.o: ..\libraries\usart1.c
+.\objects\usart1.o: ..\libraries\usart1.h
+.\objects\usart1.o: .\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h
+.\objects\usart1.o: .\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xb.h
+.\objects\usart1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\objects\usart1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usart1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\usart1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\usart1.o: .\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h

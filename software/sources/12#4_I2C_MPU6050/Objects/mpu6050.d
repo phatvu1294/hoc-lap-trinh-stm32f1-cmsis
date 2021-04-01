@@ -1,0 +1,12 @@
+.\objects\mpu6050.o: ..\libraries\mpu6050.c
+.\objects\mpu6050.o: ..\libraries\mpu6050.h
+.\objects\mpu6050.o: .\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h
+.\objects\mpu6050.o: .\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xb.h
+.\objects\mpu6050.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\objects\mpu6050.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mpu6050.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\mpu6050.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\mpu6050.o: .\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h
+.\objects\mpu6050.o: ..\libraries\delay.h
+.\objects\mpu6050.o: ..\libraries\i2c1.h
+.\objects\mpu6050.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

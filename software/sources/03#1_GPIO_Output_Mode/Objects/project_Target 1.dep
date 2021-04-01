@@ -1,0 +1,29 @@
+Dependencies for Project 'project', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\CMSIS\Device\ST\STM32F1xx\Source\Templates\arm\startup_stm32f103xb.s)(0x5F9B5A00)(--cpu Cortex-M3 -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x--pd "__UVISION_VERSION SETA 533"--list .\listings\startup_stm32f103xb.lst --xref -o .\objects\startup_stm32f103xb.o --depend .\objects\startup_stm32f103xb.d)
+F (.\CMSIS\Device\ST\STM32F1xx\Source\Templates\system_stm32f1xx.c)(0x601F33E6)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\CMSIS\Device\ST\STM32F1xx\Include -I .\User -I ..\libraries-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="533" -DSTM32F103xB-o .\objects\system_stm32f1xx.o --omf_browse .\objects\system_stm32f1xx.crf --depend .\objects\system_stm32f1xx.d)
+I (.\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x5F9B5A00)
+I (.\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xb.h)(0x5F9B5A00)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CF9AA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E3CC2)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CF9AA)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CF9AA)
+I (.\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x5F9B5A00)
+F (.\User\main.c)(0x601F8910)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\CMSIS\Device\ST\STM32F1xx\Include -I .\User -I ..\libraries-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="533" -DSTM32F103xB-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x5F9B5A00)
+I (.\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xb.h)(0x5F9B5A00)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CF9AA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E3CC2)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CF9AA)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CF9AA)
+I (.\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x5F9B5A00)
+I (..\libraries\startup.h)(0x6020F3C8)
+F (..\libraries\startup.c)(0x6028E57D)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\CMSIS\Device\ST\STM32F1xx\Include -I .\User -I ..\libraries-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="533" -DSTM32F103xB-o .\objects\startup.o --omf_browse .\objects\startup.crf --depend .\objects\startup.d)
+I (..\libraries\startup.h)(0x6020F3C8)
+I (.\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x5F9B5A00)
+I (.\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xb.h)(0x5F9B5A00)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CF9AA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E3CC2)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CF9AA)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CF9AA)
+I (.\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x5F9B5A00)

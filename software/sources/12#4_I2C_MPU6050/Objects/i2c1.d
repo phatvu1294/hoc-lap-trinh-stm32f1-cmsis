@@ -1,0 +1,9 @@
+.\objects\i2c1.o: ..\libraries\i2c1.c
+.\objects\i2c1.o: ..\libraries\i2c1.h
+.\objects\i2c1.o: .\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h
+.\objects\i2c1.o: .\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xb.h
+.\objects\i2c1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\objects\i2c1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\i2c1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\i2c1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\i2c1.o: .\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h

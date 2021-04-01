@@ -1,0 +1,13 @@
+--cpu Cortex-M3
+".\objects\startup_stm32f103xb.o"
+".\objects\system_stm32f1xx.o"
+".\objects\main.o"
+".\objects\startup.o"
+".\objects\i2c1.o"
+".\objects\mpu6050.o"
+".\objects\delay.o"
+".\objects\usart1.o"
+--strict --scatter ".\Objects\project.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\project.map" -o .\Objects\project.axf
