@@ -1,5 +1,6 @@
 # Học lập trình STM32F1 CMSIS
 *Tự học lập trình STM32F1 CMSIS*
+*Sẵn sàng public vì cộng đồng*
 
 ### Nội dung
 - 01#1_New_Project
